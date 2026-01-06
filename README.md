@@ -1,16 +1,13 @@
 # Sistema de Ponto Eletrônico
 
 ## Descrição
-Sistema de ponto eletrônico desenvolvido para simular o registro e controle de jornada
-de colaboradores, permitindo entradas, saídas e consultas de registros.
+Sistema de ponto eletrônico desenvolvido para simular o registro e controle de jornada de colaboradores, permitindo entradas, saídas e consultas de registros.
 
 ## Objetivo
-Simular um sistema corporativo de controle de ponto, com foco em regras de negócio,
-persistência de dados e organização de informações para apoio à gestão.
+Simular um sistema corporativo de controle de ponto, com foco em regras de negócio, persistência de dados e organização de informações para apoio à gestão.
 
 ## Contexto de Uso (Simulação)
-Em um cenário real, este sistema seria utilizado por empresas para controle de jornada
-dos colaboradores, apoio ao fechamento mensal e validação de inconsistências.
+Em um cenário real, este sistema seria utilizado por empresas para controle de jornada dos colaboradores, apoio ao fechamento mensal e validação de inconsistências.
 
 O sistema pode ser integrado a outras aplicações por meio de APIs ou exportação de dados.
 
@@ -40,5 +37,4 @@ O sistema pode ser integrado a outras aplicações por meio de APIs ou exportaç
 4. Executar em servidor local (Apache ou similar)
 
 ## Observações
-Projeto com foco educacional e simulação de cenários reais,
-voltado para estudo de regras de negócio e persistência de dados.
+Projeto com foco educacional e simulação de cenários reais, voltado para estudo de regras de negócio e persistência de dados.
